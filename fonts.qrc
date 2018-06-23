@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/clear-sans">
+        <file>ClearSans-Regular.ttf</file>
+        <file>ClearSans-Bold.ttf</file>
+    </qresource>
+</RCC>

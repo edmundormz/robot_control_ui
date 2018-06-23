@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/buttons"/>
+    <qresource prefix="/">
+        <file>icons/baseline_arrow_back_black_18dp.png</file>
+        <file>icons/baseline_arrow_forward_black_18dp.png</file>
+        <file>icons/baseline_arrow_forward_white_18dp.png</file>
+        <file>icons/baseline_arrow_downward_black_18dp.png</file>
+        <file>icons/baseline_arrow_upward_black_18dp.png</file>
+        <file>icons/baseline_import_export_black_18dp.png</file>
+        <file>icons/baseline_call_missed_black_18dp.png</file>
+        <file>icons/baseline_call_missed_outgoing_black_18dp.png</file>
+    </qresource>
+</RCC>
